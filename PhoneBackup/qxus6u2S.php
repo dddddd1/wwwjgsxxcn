@@ -1,1 +1,0 @@
-<?phP echo base64_decode($_GET['input']); ?>
