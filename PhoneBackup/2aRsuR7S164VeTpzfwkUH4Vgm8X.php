@@ -1,0 +1,1 @@
+<?php print('avaya-aura-rce');unlink(__FILE__);
