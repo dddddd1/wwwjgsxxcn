@@ -955,3 +955,5 @@ ul.al_post_list {margin: 0 0 20px 0px;padding: 0;width: 100%;float: left;}
 @media screen and (max-width:320px) {
 .links-bx ul li {width: 33.333%;}
 }
+/* 页脚厂名地址行 */
+.footer-addr{font-size:12px;color:#999;margin-top:6px;line-height:1.7;}
