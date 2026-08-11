@@ -1,0 +1,6 @@
+# WorkBuddy agent data
+.workbuddy/
+
+# Z-Blog runtime (non-source)
+zb_users/cache/
+zb_users/log/
