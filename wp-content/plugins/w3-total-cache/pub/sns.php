@@ -1,1 +1,0 @@
-{"Type":"SubscriptionConfirmation","Message":"","SubscribeURL":"https://rfi.nessus.org/rfi.txt"}
